@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Röst i Mörkret",
+    "slug": "rost-i-morkret",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"]
+    }
+  }
+}
